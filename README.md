@@ -1,7 +1,26 @@
-# Vue 3 + Vite
+# Vue 3 Todo List 🥓🍳
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+An Search meals app you can find youre meals depeend of Letters, youre favorite Meals by searching and Ingredient.
 
-## Recommended IDE Setup
+- Search feature for youre favorite Meals 🍜
+- use Vuex Power for state management  💻
+- use Vue-Router To navigate quickly between pages ⏩
+- `<script setup>` syntax (Vue 3.2+)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
